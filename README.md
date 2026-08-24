@@ -19,3 +19,7 @@ Technical articles for DigitalOcean, Smashing Magazine, SitePoint, LogRocket, CS
 - **39 npm packages** published under @chengyixu
 - **17+ technical articles** written
 - **Active contributor** to open source (tscircuit, cal.com, keephq, modelina, screenpipe)
+
+### Building now
+
+[Klik](https://pre.hiklik.ai/?utm_source=github&utm_medium=profile_readme&utm_campaign=kickstarter_prelaunch&utm_content=founder_profile) is a pre-launch wearable AI project for deliberate, visible capture of Sessions and connected context. It is planned for Kickstarter. [Learn more or join the pre-launch list →](https://pre.hiklik.ai/?utm_source=github&utm_medium=profile_readme&utm_campaign=kickstarter_prelaunch&utm_content=founder_profile)
