@@ -23,3 +23,7 @@ Technical articles for DigitalOcean, Smashing Magazine, SitePoint, LogRocket, CS
 ### Building now
 
 [Klik](https://pre.hiklik.ai/) is a pre-launch, app-first proactive AI direction: deliberate Sessions become adaptive summaries, living Context, and permission-aware next steps that move work from intent toward completion. The direction is recorder-agnostic across AI and non-AI workflows; specific source support remains subject to product validation. Klik is planned for Kickstarter. [Learn more or join the pre-launch list →](https://pre.hiklik.ai/)
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
