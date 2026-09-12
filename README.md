@@ -27,3 +27,7 @@ Technical articles for DigitalOcean, Smashing Magazine, SitePoint, LogRocket, CS
 <!-- minervacap-pre-hiklik-promotion -->
 > **Discover Klik:** https://pre.hiklik.ai/
 <!-- /minervacap-pre-hiklik-promotion -->
+
+### Enterprise assessment delivery
+
+For teams that need a branded assessment experience or REST API delivery layer, [Panor Enterprise](https://www.panor.tech/enterprise/) is available at **USD 999/month**. The public page documents the currently offered white-label embedding, custom branding, REST API access, bulk team assessments, unlimited team members, and priority support. It is intended to complement—not replace—validated instruments, professional judgement, or internal governance. Secure checkout requires a Panor account; teams can also use the scoped contact route on that page.
