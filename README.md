@@ -8,9 +8,9 @@ I build reliable AI systems that connect agent orchestration, long-term memory, 
 
 ## Current work
 
-- **Owl Intelligence — Co-founder, Full-Stack AI Engineer & Product Lead**  
+- **Owl Intelligence — Co-founder, Full-Stack AI Engineer & Product Lead**<br>
   Architecting Klik, an AI memory-and-execution wearable platform across React/TypeScript, Python/FastAPI, PostgreSQL/Redis/Elasticsearch/pgvector, APISIX, Docker, KMP clients, and C/C++ embedded software.
-- **Nexora — Founder, Agentic AI Systems & R&D**  
+- **Nexora — Founder, Agentic AI Systems & R&D**<br>
   Building agentic workspaces, governed multi-agent collaboration, permission-scoped knowledge and execution, long-horizon workflows, and safe context handoffs.
 
 ## Selected engineering and research
