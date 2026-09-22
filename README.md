@@ -1,33 +1,60 @@
-## Hi, I'm Chengyi 👋
+# Chengyi (Wilson) Xu
 
-Building CLI tools for developers. All tools installable via npm:
+**Agent / LLM Engineer · Applied AI · AI Memory & Execution · Multimodal Systems · Full-Stack AI**
 
-### 🛠 npm CLI Tools
+I build reliable AI systems that connect agent orchestration, long-term memory, permission-aware execution, multimodal context, evaluation, and production engineering.
 
-| Tool | Description | Install |
-|------|-------------|---------|
-| **pr-watch** | Multi-repo PR status viewer with colored table | `npx @chengyixu/pr-watch` |
-| **repo-health** | 5-dimension repo health scoring (0-100) | `npx @chengyixu/repo-health` |
-| **bounty-scout** | GitHub bounty hunter with reward parsing | `npx @chengyixu/bounty-scout` |
-| **dev-pulse** | Developer activity pulse: heatmaps, streaks | `npx @chengyixu/dev-pulse` |
-| **gh-stale** | Stale branch/PR/issue finder & cleaner | `npx @chengyixu/gh-stale` |
+[Resume](https://resume.panor.tech/) · [LinkedIn](https://www.linkedin.com/in/chengyi-xu-cn/) · [Hugging Face](https://huggingface.co/ChengyiX) · [Nexora](https://nexoraone-main.static.hf.space/) · [Owl Intelligence](https://hiklik.ai/)
 
-### ✍️ Writing
-Technical articles for DigitalOcean, Smashing Magazine, SitePoint, LogRocket, CSS-Tricks, Auth0, freeCodeCamp.
+## Current work
 
-### 📊 Stats
-- **39 npm packages** published under @chengyixu
-- **17+ technical articles** written
-- **Active contributor** to open source (tscircuit, cal.com, keephq, modelina, screenpipe)
+- **Owl Intelligence — Co-founder, Full-Stack AI Engineer & Product Lead**  
+  Architecting Klik, an AI memory-and-execution wearable platform across React/TypeScript, Python/FastAPI, PostgreSQL/Redis/Elasticsearch/pgvector, APISIX, Docker, KMP clients, and C/C++ embedded software.
+- **Nexora — Founder, Agentic AI Systems & R&D**  
+  Building agentic workspaces, governed multi-agent collaboration, permission-scoped knowledge and execution, long-horizon workflows, and safe context handoffs.
 
-### Building now
+## Selected engineering and research
 
-[Klik](https://pre.hiklik.ai/) is a pre-launch, app-first proactive AI direction: deliberate Sessions become adaptive summaries, living Context, and permission-aware next steps that move work from intent toward completion. The direction is recorder-agnostic across AI and non-AI workflows; specific source support remains subject to product validation. Klik is planned for Kickstarter. [Learn more or join the pre-launch list →](https://pre.hiklik.ai/)
+| Project | Focus |
+|---|---|
+| [OhMyHerdr](https://github.com/chengyixu/oh-my-herdr) | Native Rust agent-workspace runtime for Codex, Pi, and Claude Code profiles, with persistent instructions, isolated workspaces, and PTY-based shared terminals. |
+| [Ornith 256K LocalMoE](https://github.com/chengyixu/ornith-256k) | Reproducible Apple Silicon sparse-MoE serving study with verified 260,013-token input and agent-task performance comparisons. |
+| [CLI-Bench](https://github.com/chengyixu/CLI-Bench) | Benchmark for AI agents learning and orchestrating command-line tools through deterministic stateful environments. |
+| [Soundscape](https://github.com/chengyixu/panor-sound) | Live-API music and content discovery platform with geolocated rankings, listening telemetry, accessibility, browser tests, and atomic deployment. |
+| [Cheat Engine CLI](https://github.com/chengyixu/cheat-engine-cli) | JSON-first Go CLI for authorized process inspection and guarded memory workflows on macOS, Windows, and remote ceserver targets. |
 
-<!-- minervacap-pre-hiklik-promotion -->
-> **Discover Klik:** https://pre.hiklik.ai/
-<!-- /minervacap-pre-hiklik-promotion -->
+### Klik Memory
 
-### Enterprise assessment delivery
+- User-scoped typed facts with source-session provenance, confidence, and confirmation tracking
+- Asynchronous embeddings and weighted Elasticsearch BM25 + pgvector reciprocal-rank fusion
+- Version-aware correction, scoped deletion, derived-index reconstruction, and LoCoMo/LongMemEval/ConvoMem evaluation
+- On 1,986 LoCoMo QA pairs, hybrid retrieval improved R@5 from **0.356 to 0.611 (+25.5pp)**
 
-For teams that need a branded assessment experience or REST API delivery layer, [Panor Enterprise](https://www.panor.tech/enterprise/) is available at **USD 999/month**. The public page documents the currently offered white-label embedding, custom branding, REST API access, bulk team assessments, unlimited team members, and priority support. It is intended to complement—not replace—validated instruments, professional judgement, or internal governance. Secure checkout requires a Panor account; teams can also use the scoped contact route on that page.
+### Klik Execution
+
+- Versioned approvals, durable action ledgers, credential and integration boundaries, and auditable external-write receipts
+- Seatbelt/Docker sandboxing, failure recovery, and reusable best-practice/anti-pattern context
+- Toolathlon: **56/63 tasks passed (88.9%)**; sandbox reuse reduced cold start from **16s to 150ms**
+
+### Multimodal context
+
+- Qwen3-ASR Flash/Volcengine ASR, local Whisper, Pyannote 3.1 diarization, and ECAPA voice embeddings
+- Name/voiceprint/speaker reconciliation through user-scoped typed entities and a 19-case reconciler
+- Nine-factor session-boundary detection without interrupting continuous recording
+
+## Research artifacts
+
+- [KLIK Temporal, Entity-Aware, Privacy-Constrained Memory](https://huggingface.co/datasets/ChengyiX/klik-temporal-memory-paper)
+- [KLIK-Bench: Memory-Grounded Multi-Tool Orchestration](https://huggingface.co/datasets/ChengyiX/KLIK-Bench)
+- [CLI-Bench: Command-Line Tool Orchestration](https://huggingface.co/datasets/ChengyiX/CLI-Bench)
+- [Small Active Expert, Big Context Window](https://huggingface.co/datasets/ChengyiX/ornith-256k-bench)
+
+## Background
+
+My earlier work spans LLM, agent, and AI-wearable research at Minerva Capital, strategic investment at Zhipu AI, and TMT equity research. Training in finance and econometrics informs how I approach statistics, evaluation, product economics, and measurable outcomes.
+
+## Open to
+
+Agent / LLM Engineering, Applied AI, AI memory and retrieval, agentic execution, multimodal AI, AI infrastructure, full-stack AI, and selective remote, contract, and AI-evaluation opportunities.
+
+**Contact:** [wilson_xu@panor.tech](mailto:wilson_xu@panor.tech) · [Bilingual resume](https://resume.panor.tech/)
