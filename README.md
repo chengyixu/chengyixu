@@ -1,8 +1,8 @@
 # Chengyi (Wilson) Xu
 
-**Agent / LLM Engineer · Applied AI · AI Memory & Execution · Multimodal Systems · Full-Stack AI**
+**Agent / LLM Engineer · Applied AI  · Multimodal · Full-Stack AI**
 
-I build reliable AI systems that connect agent orchestration, long-term memory, permission-aware execution, multimodal context, evaluation, and production engineering.
+build AI systems that connect agent orchestration, long-term memory, permission-aware execution, multimodal context, evaluation, and production engineering.
 
 [Resume](https://resume.panor.tech/) · [LinkedIn](https://www.linkedin.com/in/chengyi-xu-cn/) · [Hugging Face](https://huggingface.co/ChengyiX) · [Nexora](https://nexoraone-main.static.hf.space/) · [Owl Intelligence](https://hiklik.ai/)
 
